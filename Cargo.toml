@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "kngsterr_ui",
+    "kngsterr_api",
+]
